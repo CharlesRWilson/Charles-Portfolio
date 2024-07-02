@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .navbar-nav .nav-item {
+    margin-left: 20px;
+  }
+  
+  .large-app {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  @media (max-width: 992px) {
+    .large-app {
+      max-width: 100%;
+      height: auto;
+    }
+  }
